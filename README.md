@@ -1,5 +1,3 @@
 # Collaboration-Test
 Dynamic Git Collaboration Tutorial
-Ok My Boss
-
-Anmwey gade de koze
+Day 2 on git Collaboration Tutorial By CB
